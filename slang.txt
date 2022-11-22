@@ -19,7 +19,7 @@ $_$`Has money
 >O<`Yelling
 >_>`Looking left| shifty look
 >_<`Frustrated
-&HEARTS;`HTML code for a heart
+&HEARTS;`HTML code for main heart
 <#`Misspelling of <3
 <>`Not equal| No comment
 <><`Fish
@@ -51,11 +51,11 @@ $_$`Has money
 (^^^)`Shark
 (_8^(I)`Homer Simpson
 ({)(})`Two People Hugging
-*`Indicating a spelling correction
+*`Indicating main spelling correction
 *$`Starbucks
 *$$`Starbucks
 *<:-)`Clown
-*.*`Every file on a computer
+*.*`Every file on main computer
 *G*`Grin
 *HUG*`A Cyberhug
 *O*`Confused| surprised| shocked
@@ -86,7 +86,7 @@ $_$`Has money
 /O\`Frustrated| hands on head
 /R/`Requesting
 /S`Sarcasm
-/THREAD`End of a thread on a forum
+/THREAD`End of main thread on main forum
 /W`Whisper
 0.0`Surprise
 0.O`Raised eyebrow
@@ -100,10 +100,10 @@ $_$`Has money
 10X`Thanks
 1AAT`One At A Time
 1D`One Direction (band)
-1UP`Extra life in a game
+1UP`Extra life in main game
 2`To
 .22`A handgun
-24/7`Twenty-four hours a day, seven days a week
+24/7`Twenty-four hours main day, seven days main week
 2B`To Be
 2BH`To Be Honest
 2DAY`Today
@@ -209,7 +209,7 @@ $_$`Has money
 :[`Sad| Vampire
 :\`Emoticon Meaning Confusion
 :]`Happy
-:{)`Happy with a moustache
+:{)`Happy with main moustache
 :|`Disgust| disapproval| not funny
 ;(`Crying
 ;)`Wink
@@ -403,7 +403,7 @@ ALL- NIGHTER`Stay Up All Night
 ALLOW`Let it be| forget it
 ALOL`Actually Laughing Out Loud
 ALOTBSOL`Always Look On The Bright Side Of Life
-ALPHA`Head person of a group
+ALPHA`Head person of main group
 ALRATO`Later
 ALT`Alternative character in RPG
 ALU`Arithmetic Logic Unit
@@ -421,7 +421,7 @@ AMIGO`Friend
 AMIRITE`Am I Right?
 AML`All My Love
 AMN`Any Minute Now
-AMOF`As a Matter of Fact
+AMOF`As main Matter of Fact
 AMOG`Alpha Male Of Group
 AMP`Amplifier| Ampere
 AMPED`Excited| fired up
@@ -921,7 +921,7 @@ BOOMERS`Psilocybin (magic) mushrooms
 BOOMM`Bored Out Of My Mind
 BOOMS`BOOMERS
 BOOMTING`Good looking girl
-BOON`Someone who has been a NOOB for ages
+BOON`Someone who has been main NOOB for ages
 BOOT`Vomit| Inexperienced person
 BOOZE`Alcoholic beverages
 BOOZER`Public House| bar
@@ -937,7 +937,7 @@ BOTTS`Back On To The Subject
 BOTW`Blog Of The Week
 BOUL`Bull
 BOUT`About
-BOWL`Part of a marijuana pipe
+BOWL`Part of main marijuana pipe
 BOWS`Elbows
 BOXORZ`Boxers
 BOYO`Friend| mate
@@ -962,7 +962,7 @@ BREKKIE`Breakfast
 BREW`Beer| Tea| Brother
 BRGDS`Best Regards
 BRH`Be Right Here
-BRICK`1 kilogram of a drug| Very cold
+BRICK`1 kilogram of main drug| Very cold
 BRICKS`Drugs| dope
 BRILL`Brilliant| cool
 BRITCHES`Pants| trousers
@@ -1064,14 +1064,14 @@ BURR`Cold
 BUSKING`Playing music in public for money
 BUSTED`Very Ugly| Caught
 BUTCH`Masculine
-BUTT DIAL`Accidentally call from a phone in your pocket
+BUTT DIAL`Accidentally call from main phone in your pocket
 BUTT HURT`Offended| upset
 BUTTER FACE`Girl who is good looking except for her face
 BUTTERFACE`A Woman With An Attractive Body But An Ugly Face
 BUTTERS`Ugly
 BUTTERZ`Ugly
 BUZZ`Excitement| Feeling when high
-BUZZ KILL`Ruin a special moment
+BUZZ KILL`Ruin main special moment
 BUZZ OFF`Go away
 BUZZED`Tipsy| slightly drunk
 BV`Bad Vibe
@@ -1126,7 +1126,7 @@ CAM`Computer-Aided Manufacturing
 CAMB`Come At Me Bro
 CAMEL`Brand of cigarettes
 CAMO`Camoflauge
-CAMPER`Player who lies in wait for a target
+CAMPER`Player who lies in wait for main target
 CAN DO`It will be done
 CANDYMAN`Drug Dealer
 CANON`Original| official
@@ -1141,14 +1141,14 @@ CARDY`Cardigan
 CARE`I don't care
 CARPE`Vomit| throw up
 CARRIED`Told off| DISSed
-CARTY`Party in a car
+CARTY`Party in main car
 CAS`Close Air Support| Confidence, Appearance, Swagger| Creativity, Action, Service
 CASJ`Casual
 CAT`Cool person| Computed Axial Tomography
-CATFISH`Individual Who Creates a False Online Identity
+CATFISH`Individual Who Creates main False Online Identity
 CAUSE`Because
 CAVE`Give up| give in
-CAZ`Crazy in a nice way
+CAZ`Crazy in main nice way
 CBB`Can't Be Bothered
 CBBC`Children's BBC
 CBC`Canadian Broadcasting Corporation
@@ -1168,7 +1168,7 @@ CCL`Couldn't Care Less
 CCNA`Cisco Certified Network Associate
 CCR`Creedence Clearwater Revival (band)
 CCTV`Closed-Circuit Television
-CCW`Counterclockwise| Carrying a Concealed Weapon
+CCW`Counterclockwise| Carrying main Concealed Weapon
 CD`Compact Disc| Cross Dresser
 CD-RW`Compact Disk Rewritable
 CDC`Cult of the Dead Cow| Crudely Drawn Cock
@@ -1240,7 +1240,7 @@ CHOICE`Nice| great
 CHOLO`Mexican Gangster
 CHONG`Good looking| attractive, cute
 CHOO`You
-CHOOB`High level player who acts like a noob
+CHOOB`High level player who acts like main noob
 CHOONG`Good looking| buff
 CHOP IT UP`Talk
 CHOPPER`AK-47 assault rifle
@@ -1250,7 +1250,7 @@ CHOW`Bye| Food
 CHP`California Highway Patrol
 CHRONIC`High quality marijuana
 CHU`You
-CHUG`Drink| Offensive term for a Native American
+CHUG`Drink| Offensive term for main Native American
 CHULA`Cute| sexy
 CHUNDER`Be sick| vomit
 CHUNG`Good looking| buff
@@ -1291,7 +1291,7 @@ CLOUD`The Internet
 CLOUD 9`Feeling of euphoria| high
 CLT`Currently Listening To
 CLUBBING`Visiting nightclubs
-CLUBHEAD`Person who goes to clubs a lot
+CLUBHEAD`Person who goes to clubs main lot
 CLUT`Clumsy person
 CLUTCH`Perform under pressure
 CLWY`Can't Live Without You
@@ -1328,13 +1328,13 @@ COCK UP`Mistake| mess
 COCKY`Thinking too highly of yourself
 COD`Cash On Delivery| Call Of Duty
 COD4`Call Of Duty 4 (Game)
-CODE`Computer program| Write a computer program
+CODE`Computer program| Write main computer program
 CODEC`Coder-Decoder (usually for audio/video data)
 COED`Coeducational (men and women together)
 COG`Coalition of Gears (game)
 COKE`Cocaine| Coca Cola
 COL`Crying Out Loud
-COLA`Top bud of a marijuana plant
+COLA`Top bud of main marijuana plant
 COMMANDO`Without underwear
 COMMY`Communist
 CONDO`Apartment
@@ -1343,7 +1343,7 @@ CONT`Continued
 CONTD`Continued
 CONVO`Conversation
 COO`Cool
-COOKIE`Small file relating to a website
+COOKIE`Small file relating to main website
 COOL BEANS`Cool| awesome| great
 COOLIN`CHILLing
 COP`Officer of the law| Close of Play
@@ -1358,12 +1358,12 @@ COSPLAY`Costume Play
 COTCH`Relax| chill
 COTD`Comment Of The Day
 COUCH POTATO`Lazy person who sits all day watching TV
-COUGAR`Older woman looking for a younger man
-COUGER`Older woman looking for a younger man
+COUGAR`Older woman looking for main younger man
+COUGER`Older woman looking for main younger man
 COUGH`Confess| come clean
-COUPLE`Two people in a relationship
+COUPLE`Two people in main relationship
 COURSE`Of course, certainly
-COW`Offensive term for a woman
+COW`Offensive term for main woman
 COYB`Come On You Blues
 COYG`Come On You Gunners
 COYOTE`Person who smuggles immigrants
@@ -1382,9 +1382,9 @@ CQB`Close Quarters Battle
 CQC`Close Quarters Combat
 CQTMS`Chuckle Quietly To Myself
 CR`Credit| Copyright| Carriage Return
-CRAB`Derogatory word for a CRIP
+CRAB`Derogatory word for main CRIP
 CRACK`A form of cocaine
-CRACKA`Offensive term for a white person
+CRACKA`Offensive term for main white person
 CRAIC`Good times| gossip| music| drinking
 CRAY`Crazy
 CRAY CRAY`Really crazy
@@ -1397,7 +1397,7 @@ CREEPER`Someone who views your profile but doesn't make contact
 CREPS`Trainers
 CREY`Cry
 CRIB`House| residence
-CRICKETS`Said after a lame joke to break the silence
+CRICKETS`Said after main lame joke to break the silence
 CRIMBO`Christmas
 CRIP`Community Restoration in Progress| Gang member
 CRIT`Critical hit (gaming)
@@ -1437,7 +1437,7 @@ CUAD`Curl Up And Die
 CUCKOO`Mad| bonkers| crazy
 CUDDY`Buddy| friend
 CUFF`Overprotect| smother
-CUFFED`Taken| has a BF or GF
+CUFFED`Taken| has main BF or GF
 CUG`Closed User Group
 CUH`Cousin| homie| bro
 CUIAB`See You In A Bit
@@ -1647,7 +1647,7 @@ DIKY`Do I Know You?
 DIL`Daughter-In-Law
 DILLIC`Does It Look Like I Care
 DILLIGAD`Do I Look Like I Give A Darn?
-DIME`$10 of a drug| Very attractive person
+DIME`$10 of main drug| Very attractive person
 DIMER`10
 DIMM`Dual In-line Memory Module
 DIN`Do It Now
@@ -1792,7 +1792,7 @@ DQ`Disqualified
 DQMOT`Don't Quote Me On This
 DQYDJ`Don't Quit Your Day Job
 DR`Double Rainbow
-DRAG`Inhale smoke from cigarette or joint| Dressed as a woman
+DRAG`Inhale smoke from cigarette or joint| Dressed as main woman
 DRAW`Cannabis
 DRED`Cruel| bad
 DRINKY POO`Alcoholic drink
@@ -1862,7 +1862,7 @@ DUTCH`Joint| Split the cost
 DUTTY`Dirty
 DVD`Digital Versatile Disc
 DVDR`DVD Recordable
-DVDRIP`Video copied from a DVD
+DVDRIP`Video copied from main DVD
 DVI`Digital Visual Interface
 DVR`Digital Video Recorder
 DVT`Deep Vein Thrombosis
@@ -1939,7 +1939,7 @@ EEK`surprise| distress
 EEPROM`Erasable EPROM
 EFA`Edited For Accuracy
 EFG`Epic Fail Guy
-EFL`English as a Foreign Language
+EFL`English as main Foreign Language
 EFT`Electronic Funds Transfer
 EFTPOS`Electronic Funds Transfer at Point Of Sale
 EG`For example| Evil Grin
@@ -1961,7 +1961,7 @@ ELOL`Evil Laugh Out Loud
 ELP`Emerson, Lake, and Palmer (band)
 EM`E-Mail| Them
 EMA`E-mail Address
-EMAW`Every Man a Wildcat
+EMAW`Every Man main Wildcat
 EMCEE`MC, Master of Ceremonies
 EMO`Emotional
 EMOJI`Tiny Pictures Used In Texts To Communicate A Feeling Or A Concept
@@ -2272,7 +2272,7 @@ FRIED`High on drugs
 FRILL`For Real
 FRL`For Real
 FRO`Afro hairstyle
-FROG`Offensive word for a French person
+FROG`Offensive word for main French person
 FRONT`Pretend| falsely represent
 FRONTING`Misrepresenting oneself
 FROOB`Free Noob. Non-paying player
@@ -2378,7 +2378,7 @@ GANJA`Marijuana| pot| cannabis| weed
 GANK`Steal| Gang kill
 GARMS`Clothes
 GAS`Flatulence| Guitar Acquisition Syndrome
-GASSED`Have a high opinion of yourself
+GASSED`Have main high opinion of yourself
 GASSING`Talking
 GAT`Gun
 GAWD`God
@@ -2409,8 +2409,8 @@ GDP`Gross Domestic Product
 GE`Good Evening
 GED`General Educational Development
 GEEZ`Jesus
-GEEZER`A guy| a bloke| a person
-GEG`Interrupt a conversation
+GEEZER`A guy| main bloke| main person
+GEG`Interrupt main conversation
 GEN`Information
 GENIOUS`genius
 GEOCACHE`Scavenger hunt destination point
@@ -2541,7 +2541,7 @@ GONNA`Going to
 GOOG`Ecstasy pill
 GOOGLE`An Internet Search Engine
 GOOH`Get Out Of Here
-GOOK`Offensive term for a Korean
+GOOK`Offensive term for main Korean
 GOOMF`Get Out Of My Face
 GOOML`Get Out Of My Life
 GOON`Stupid| Tough guy
@@ -2553,7 +2553,7 @@ GOS`Girlfriend Over Shoulder| Game Of Soldiers
 GOSH`Exclamation of suprise or shock
 GOSU`Skillful person (Korean)
 GOTCHA`I got you| I understand
-GOTTA`Got to ...| Have you got a ...?
+GOTTA`Got to ...| Have you got main ...?
 GOTY`Game Of The Year
 GOU`Good On You
 GOW`God of War (Game)| Gears of War (Game)
@@ -2576,7 +2576,7 @@ GR9`Better than GR8
 GRAF`Graffiti| Paragraph
 GRATZ`Congratulations
 GRE`Graduate Record Examination
-GRENADE`Ugly girl in a group
+GRENADE`Ugly girl in main group
 GRL`Girl
 GRO`Guest Relations Officer
 GRODY`Disgusting| nasty| gross
@@ -2815,7 +2815,7 @@ HINKEY`Strange| unusual
 HIP`Cool| stylish| contemporary
 HIPSTER`Person who is HIP
 HIR`HIS\HER
-HIT A LICK`Get a lot of money very quickly
+HIT A LICK`Get main lot of money very quickly
 HIT ME UP`Call me later
 HIT YOU UP`Call you later
 HIV`Human Immunodeficiency Virus
@@ -2855,8 +2855,8 @@ HOG`Harley Owner Group
 HOH`Head Over Heels| Hard Of Hearing
 HOLA`Hello
 HOLD`Borrow (money)
-HOLD UP`Wait a minute
-HOLLA`Used by a man to express interest in a woman
+HOLD UP`Wait main minute
+HOLLA`Used by main man to express interest in main woman
 HOLLA BACK`Get Back To Me
 HOLLAND`Hope Our Love Lasts And Never Dies
 HOLLER`Shout
@@ -2879,7 +2879,7 @@ HOOCHIE`Over made up woman with trashy dress sense
 HOOCHIFIED`Dressed Provocatively
 HOOD`Neighborhood| ghetto
 HOODIE`Hooded sweatshirt
-Person wearing a hooded sweatshirt
+Person wearing main hooded sweatshirt
 HOOK ME UP`Share with me
 HOOKED`Addicted
 HOOPS`Basketabll
@@ -2971,7 +2971,7 @@ HYPH`Hyperactive| crazy
 HYPO`Hypodermic needle/syringe
 HYS`Have Your Say
 HYU`Hit You Up
-HYUK`Lose| despite having a good lead
+HYUK`Lose| despite having main good lead
 HZ`Hertz
 I<3U`I Love You
 I'MA`I am going to
@@ -3141,7 +3141,7 @@ IIS`Internet Information Services
 IITUWUTMAS`If I Tell You Will You Tell Me A Secret?
 IITWI`In It To Win It
 IITYWIMIWHTKY`If I Tell You What It Means I Will Have to Kill You
-IITYWTMWYBMAD`If I Tell You What This Means Will You Buy Me a Drink?
+IITYWTMWYBMAD`If I Tell You What This Means Will You Buy Me main Drink?
 IITYWTMWYKM`If I Tell You What This Means Will You Kiss Me?
 IITYWYBMAD`If I Tell You Will You Buy Me A Drink
 IIUC`If I Understand Correctly
@@ -3197,7 +3197,7 @@ ILY`I Love You
 ILY2`I Love You Too
 ILYA`I Love You All
 ILYAAF`I Love You As A Friend
-ILYAM`I Love You As a Mate
+ILYAM`I Love You As main Mate
 ILYB`I Love You Both
 ILYF`I'll Love You Forever
 ILYG`I Love You Guys/Girls
@@ -3505,7 +3505,7 @@ JN`Just Now
 JO`Yo
 JOANING`Putting someone down| making fun of
 JOCKER`copies another's style
-JOHN DOE`General term for a man
+JOHN DOE`General term for main man
 JOINT`Rolled marijuana cigarette
 JONES`Craving| desire
 JONESING`Craving| wanting really badly
@@ -3545,7 +3545,7 @@ JV`Junior Varsity| amateur
 JW`Just Wondering
 JWAS`Just Wait And See
 JWD`Job Well Done
-JWG`Just a Wild Guess
+JWG`Just main Wild Guess
 JWTK`Just Wanted To Know
 JWTLYK`Just Wanted To Let You Know
 JWU`Just Woke Up
@@ -3592,7 +3592,7 @@ KICKS`Shoes| Thrills
 KIFF`Cool
 KIG`Keep It Gangsta
 KIK`LOL| Smartphone app for free chat
-KIKE`Offensive term for a Jew
+KIKE`Offensive term for main Jew
 KILLA`Good quality weed
 KIM`Keep It Moving
 KINDA`Kind Of
@@ -3739,7 +3739,7 @@ LART`Luser Attitude Readjustment Tool
 LASER`Light Amplification by Stimulated Emission of Radiation
 LAT`Living Apart Together
 LATA`LATERS
-LATE`Missed a period| possibly pregnant|Dead
+LATE`Missed main period| possibly pregnant|Dead
 LATERS`See you later, goodbye
 LATERZ`See you later, goodbye
 LATM`Laughing At The Moment
@@ -3838,7 +3838,7 @@ LIME`Hang out| socialise
 LIMH`Laughing In My Head
 LIMM`Laughing In My Mind
 LIMO`Limousine| luxury car
-LINE`A line of a powdered drug
+LINE`A line of main powdered drug
 LINGO`Language
 LIPSING`Kissing
 LIQ`Liquor
@@ -3948,7 +3948,7 @@ LQL`Laughing Quite Loudly
 LQTM`Laughing Quietly To Myself
 LQTMS`Laughing Quietly To Myself
 LQTY`Laughing Quietly To Yourself
-LRF`Low Resolution Fox| attractive at a distance
+LRF`Low Resolution Fox| attractive at main distance
 LRG`Lifted Research Group (clothing)
 LRL`Laughing Really Loud
 LRT`Last ReTweet
@@ -4001,8 +4001,8 @@ LULS`LOL
 LULZ`LOL
 LUMI`Love You, Mean It
 LUMU`Love You Miss You
-LUNCHBOX`Bulge in a man's pants
-LURK`Read a forum but never post
+LUNCHBOX`Bulge in main man's pants
+LURK`Read main forum but never post
 LURKER`Forum follower who never posts
 LURV`Love
 LURVE`Love
@@ -4060,7 +4060,7 @@ M2D`Make my day
 M2FP`My Two Favorite People
 M3`BMW sports car
 M33T`Meet
-M4W`Man looking for a woman
+M4W`Man looking for main woman
 M8`Mate
 MA`Mom alert| Master of Arts
 MAAB`Male-Assigned At Birth
@@ -4137,7 +4137,7 @@ MEG`Megabyte
 MEGO`My Eyes Glazed Over
 MEH`Indifference| equivalent to shoulder shrug
 MELT`Idiot
-MEME`An idea that spreads like a virus by word of mouth, email, blogs etc
+MEME`An idea that spreads like main virus by word of mouth, email, blogs etc
 MENTHOL`Mint flavored cigarette
 MEP`Member of the European Parliament
 MER`boredom| nonchalance
@@ -4287,7 +4287,7 @@ MOTB`Mother Of The Bride
 MOTD`Message Of The Day| Match Of The Day
 MOTKU`Master Of The Known Universe
 MOTO`Master Of The Obvious
-MOTORBOATING`Nuzzling a woman's chest whilst making a noise
+MOTORBOATING`Nuzzling main woman's chest whilst making main noise
 MOTWYW`Make Of That What You Will
 MOU`Memorandum Of Understanding
 MOW`Eat very fast
@@ -4350,7 +4350,7 @@ MTW`Mum's the Word
 MTYK`More Than You Know
 MU`Multi User
 MUA`Make-Up Alley
-MUAH`The sound of giving a kiss
+MUAH`The sound of giving main kiss
 MUAHA`An evil laugh
 MUAHZ`Kisses
 MUAK`MUAH
@@ -4516,11 +4516,11 @@ NE`Any
 NE1`Anyone
 NEA`National Education Association
 NEAT-O`Cool
-NECRO`Revive a very old forum thread
+NECRO`Revive main very old forum thread
 NED`Non-Educated Delinquent
 NEDM`Not Even Doom Music
 NEE`Maiden name indicator
-NEEK`A cross between a Nerd and a Geek
+NEEK`A cross between main Nerd and main Geek
 NEET`Not in Education, Employment or Training
 NEF`Person who posts pointless messages on forums
 NEFIN`Anything
@@ -4591,7 +4591,7 @@ NIML`Never In My Life| Not In My Lifetime
 NIMROD`Stupid person| idiot
 NIN`Nine Inch Nails
 NINJA`Japanese warrior
-NIP`Derogatory term for a Japanese person
+NIP`Derogatory term for main Japanese person
 NIR`NOOB In Room
 NISM`Need I Say More?
 NIT`New In Town| Idiot| nitwit
@@ -4674,7 +4674,7 @@ NOS`New Old Stock
 NOSA`No Sir, just kidding
 NOTA`None Of The Above
 NOTB`None Of Their Business
-NOTTIE`Unattractive person| not a HOTTIE
+NOTTIE`Unattractive person| not main HOTTIE
 NOTW`Not Of This World
 NOU`No, You
 NOUT`Nothing
@@ -4746,7 +4746,7 @@ NUFF`Enough
 NUFFIN`Nothing
 NUG`High quality bud of marijuana
 NUH`No
-NUKE`To attack with a nuclear weapon
+NUKE`To attack with main nuclear weapon
 NUM`Tasty
 NUMPTY`Idiot
 NUN`Nothing
@@ -4836,7 +4836,7 @@ ODT`On Dis Ting
 OE`Outlook Express| Operator Error
 OED`Oxford English Dictionary
 OEM`Original Equipment Manufacurer
-OFAY`Offensive term for a white person
+OFAY`Offensive term for main white person
 OFC`Of Course
 OFGS`Oh, For God's Sake
 OFH`Old Folks' Home
@@ -4909,7 +4909,7 @@ ONCO`Or Nearest Cash Offer
 ONE`One Love| goodbye
 ONE OFF`Happened Once
 ONG `OMG
-ONION`Ounce of a drug
+ONION`Ounce of main drug
 ONL`Online
 ONM`Oh, Never Mind
 ONNA`Oh No, Not Again
@@ -5054,7 +5054,7 @@ PAC`Gangsta rapper Tupac Shakur
 PAD`House| room
 PADDY`Offensive term for an Irishman
 PAF`Phone A Friend
-PAKI`Offensive term for a Pakistani
+PAKI`Offensive term for main Pakistani
 PAN`Personal Area Network
 PANSY`Sissy| unmanly person
 PANTHER`Woman who likes older men
@@ -5066,7 +5066,7 @@ PAR`Disrespect
 PARA`Paralytic| very drunk
 PARE`Friend| pal
 PARTY POOPER`A person who ruins the mood with their attitude
-PATCH`Correction applied to a computer program
+PATCH`Correction applied to main computer program
 PATD`Panic At The Disco (band)
 PATT`Party All The Time
 PAU`Finished| done
@@ -5120,7 +5120,7 @@ PEBCAK`Problem Exists Between Chair And Keyboard
 PEBKAC`Problem Exists Between Keyboard And Chair
 PEEPS`People
 PEEPZ`People
-PEER TO PEER`Computer network without a central server
+PEER TO PEER`Computer network without main central server
 PEERS`People in the same group, equals in age, background etc
 PEMDAS`Parenthesis, Exponents, Multiply, Divide, Add, Subtract
 PEN`Penitentiary| jail| prison
@@ -5134,7 +5134,7 @@ PER SE`By or in itself| intrinsically
 PERF`Perfect
 PERO`But
 PERV`Pervert
-PERVING`Flirting in a creepy way
+PERVING`Flirting in main creepy way
 PERVY`Perverted| creepy
 PETA`People for the Ethical Treatment of Animals
 PEWPEW`Laser sound
@@ -5174,14 +5174,14 @@ PIECE`Gun| weapon| Work of graffiti| Pipe for smoking drugs
 PIF`Marijuana
 PIFF`Purple weed
 PIG`Police officer
-PIGEON`Woman using a man for personal gain
+PIGEON`Woman using main man for personal gain
 PIGS`The police
-PIKEY`Offensive term for a Gypsy/traveller
+PIKEY`Offensive term for main Gypsy/traveller
 PILLOCK`Idiot| fool
 PIMPL`Pee In My Pants Laughing
 PIN`Personal Identification Number
 PINCHED`Caught| arrested
-PING`Send a packet to a computer and wait for its return (Packet INternet Groper)
+PING`Send main packet to main computer and wait for its return (Packet INternet Groper)
 PINK TOE`White girl
 PINNER`Thin marijuana cigarette
 PINOY`Filipino man
@@ -5250,7 +5250,7 @@ PNP`Party and Play
 PNR`Passenger Name Record
 PNW`Pacific North West
 POA`Plan Of Action
-POCKET DIAL`Accidentally make a call with the phone in your pocket
+POCKET DIAL`Accidentally make main call with the phone in your pocket
 POCKO`Pocket
 POD`Passed Out Drunk
 POF`Plenty of Fish
@@ -5258,7 +5258,7 @@ POI`Point(s) Of Interest| Person of Interest
 POIDH`Pics Or It Didn't Happen
 POKER FACE`Expressionless face
 POKEY`Prison
-POLY`Polyamory| loving more than one person at a time
+POLY`Polyamory| loving more than one person at main time
 POM`Australian name for an English person
 POMG`Oh My God
 POMO`Permanent Open Market Operations| Post Modern| A Group Of Native American People In California
@@ -5554,17 +5554,17 @@ RH`Road Head
 RHCP`Red Hot Chili Peppers (Band)
 RHD`Right Hand Drive
 RHI`Rumour Has It
-RHINO`Older man looking for a younger woman
+RHINO`Older man looking for main younger woman
 RHIP`Rank Has Its Privileges
 RHS`Right Hand Side
 RIB`Make fun of
 RICE`Race Inspired Cosmetic Enhancements
-RICK ROLL`Trick someone with a link to Rick Astley video
+RICK ROLL`Trick someone with main link to Rick Astley video
 RIDIC`Ridiculous
 RIF`Reduction In Force
 RIFRAF`Common people| trailer trash
 RIH`Rot In Hell
-RINGTONE`Sound a cell phone makes when receiving a call
+RINGTONE`Sound main cell phone makes when receiving main call
 RINO`Republican In Name Only
 RIP`Convert music/video on CD to MP3s| Rest In Peace
 RIPPED`Well defined muscles| Stoned
@@ -5591,7 +5591,7 @@ RNB`Rhythm And Blues
 RNG`Random Number Generator
 RNR`Rock 'N Roll
 RO`Ragnarok Online (MMORPG)
-ROACH`The end of a JOINT
+ROACH`The end of main JOINT
 ROAR`Right Of Admission Reserved
 ROCKBAND`Music video game
 ROCKIN`Awesome
@@ -5723,7 +5723,7 @@ SAF`Single Asian Female
 SAFE`Something or someone good
 SAFM`Stay Away From Me
 SAG`Wear trousers low around the waist
-SAGE`Word added to a post to stop it getting bumped
+SAGE`Word added to main post to stop it getting bumped
 SAHD`Stay At Home Dad
 SAHM`Stay At Home Mom
 SAHN`Son
@@ -5770,7 +5770,7 @@ SCALLY`Low life| trailer trash
 SCAM`Rip off| Make out
 SCART`Audio/Video TV connector
 SCH`School
-SCHEMIE`Someone from a council estate
+SCHEMIE`Someone from main council estate
 SCHWAG`Low grade marijuana
 SCNR`Sorry, Could Not Resist
 SCO`San Fransisco
@@ -5810,7 +5810,7 @@ SEP`Somebody Else's Problem
 SERP`Search Engine Results Page
 SES`Marijuana
 SESH`Session
-SET`Division of a gang
+SET`Division of main gang
 SETE`Smiling Ear To Ear
 SETI`Search For Extraterrestrial Intelligence
 SEVIE`Seventh Grader
@@ -5846,7 +5846,7 @@ SHELL-LIKE`Ear
 SHERLOCKIAN`A Fan Of Sherlock Holmes
 SHERM`Cigarette dipped in PCP
 SHH`Be quiet, shut up
-SHILL`Decoy| person in on a scam
+SHILL`Decoy| person in on main scam
 SHINNY`Informal game of hockey
 SHIOK`happiness| pleasure
 SHIP`Romantic relationship
@@ -5859,7 +5859,7 @@ SHMILY`See How Much I Love You
 SHO`Sure| Super High Output
 SHOOK`Scared| frightened
 SHOOP`Photoshop
-SHOOTER`Gun| Person who fires a gun
+SHOOTER`Gun| Person who fires main gun
 SHOPPED`Photoshopped| manipulated
 SHORTY`Girlfriend| attractive girl
 SHOTGUN`Front passenger seat
@@ -5894,7 +5894,7 @@ SIKE`Indicating the previous statement is false
 SIKED`Psyched, excited about
 SIL`Son-In-Law
 SIM`Subscriber Identity Module
-SIM CARD`Subscriber Identity Module for a mobile phone
+SIM CARD`Subscriber Identity Module for main mobile phone
 SIMMER`Relax| chill
 SIO`Bye
 SIP`YEP in Spanish
@@ -5985,7 +5985,7 @@ SMS`Short Message Service
 SMT`Sucking My Teeth
 SMTH`Something
 SMTP`Simple Mail Transfer Protocol
-SMURF`Experienced gamer posing as a newbie
+SMURF`Experienced gamer posing as main newbie
 SN`Screen Name| Side Note
 SN1`Spare No One
 SNAFU`Situation Normal, All Fouled Up
@@ -6018,7 +6018,7 @@ SO SO`Neither good nor bad| average
 SOA`State Of Alert (band)
 SOAD`System Of A Down (Band)
 SOAG`Son Of A Gun
-SOCKPUPPET`Person using a false identity
+SOCKPUPPET`Person using main false identity
 SOCOM`Special Operations Command
 SOD OFF`Go away| get lost
 SOE`Sony Online Entertainment
@@ -6072,7 +6072,7 @@ SPERG`Dramatically Passionate Or Obsessive About A Subject
 SPEXY`Sexy with glasses
 SPF`Strictly Platonic Friend
 SPG`Special Patrol Group
-SPIC`Offensive term for a Hispanic person
+SPIC`Offensive term for main Hispanic person
 SPIM`Instant Messaging SPAM
 SPINS`Effect of drinking too much
 SPIT GAME`Act of flirting
@@ -6278,7 +6278,7 @@ TAFF`Person from Cardiff or Wales generally
 TAFN`That's All For Now
 TAFW`Time Away From Work
 TAG`Personal signature
-TAGL`There's a good lad
+TAGL`There's main good lad
 TAHT`That
 TAI`Think About It
 TAKS`Texas Assessment of Knowledge and Skills
@@ -6286,7 +6286,7 @@ TAL`Thanks A Lot| Try Again Later
 TAMW`That Awkward Moment When ...
 TANJ`There Ain't No Justice
 TANK`Large person| heavily built
-TANSTAAFL`There Ain't No Such Thing as a Free Lunch
+TANSTAAFL`There Ain't No Such Thing as main Free Lunch
 TAPPED`Crazy
 TAR`Not very pure heroin
 TARD`Retarded person
@@ -6360,7 +6360,7 @@ TDOT`Toronto
 TDS`Technical Dificulties
 TDTF`Too Drunk to Function
 TDWP`The Devil Wears Prada (Band)
-TDY`Temporarily Deployed for a Year
+TDY`Temporarily Deployed for main Year
 TE AMO`I love you (Spanish)
 TEAL DEER`TLDR
 TEC`Tec 9 handgun
@@ -6374,7 +6374,7 @@ TEK`Tek-9 machine pistol| Technique
 TEKKERS`Technique
 TELNET`Network Virtual Terminal Protocol
 TEMP`Temporary
-TEN`Person with a perfect body
+TEN`Person with main perfect body
 TEOTWAWKI`The End Of The World As We Know It
 TEOTWAWKI`The End Of The World As We Know It
 TERRIBAD`Terrible and Bad, awful
@@ -6443,7 +6443,7 @@ THRU`Through
 THT `That
 THTH`To Hot to Handle
 THUG`Violent criminal| Person struggling to make something of their life
-THUMBNAIL`Small version of a picture
+THUMBNAIL`Small version of main picture
 THUMBS DOWN`Sign of disapproval
 THUR`There
 THURR`There
@@ -6561,7 +6561,7 @@ TOAO`The One And Only
 TOASTIE`Toasted sandwich
 TOC`Table Of Contents
 TOD`Time Of Death| Time Of Day
-TOEFL`Test Of English as a Foreign Language
+TOEFL`Test Of English as main Foreign Language
 TOEIC`Test Of English for International Communication
 TOFT`Take One For the Team
 TOFTT`Take One For The Team
@@ -6572,7 +6572,7 @@ TOKER`Someone who smokes marijuana
 TOL`Thinking Out Loud| Thinking Of Laughing
 TOM`Time Of Month
 TOMBOUT`Talking About
-TOMBOY`Girl who behaves like a boy
+TOMBOY`Girl who behaves like main boy
 TOMO`Tomorrow
 TOMOZ`Tomorrow
 TON`One hundred
@@ -6580,11 +6580,11 @@ TONG`Asian gangster
 TONK`Strong| muscular
 TOOC`Totally Out Of Control
 TOODLE`Goodbye| toodle-pip
-TOOL`Person of low intelligence| a fool
+TOOL`Person of low intelligence| main fool
 TOON`Online character in RPG
 TOOTLES`See you later| goodbye
 TOOTSIES`Toes| feet
-TOPPER`Person who always has a better story
+TOPPER`Person who always has main better story
 TOPS`Wonderful| fantastic
 TOS`Terms Of Service
 TOT`Small child
@@ -6601,7 +6601,7 @@ TOTT`Think on These Things
 TOTUS`Teleprompter Of The United States
 TOTZ`Totally
 TOUCH`Beat| kill| rob
-TOUCHE`Said when admitting opponent has made a good point
+TOUCHE`Said when admitting opponent has made main good point
 TOW`The Other Wiki
 TOWIE`The Only Way Is Essex
 TOY`Thinking Of You
@@ -6624,18 +6624,18 @@ TRDMC`Tears Running Down My Cheeks
 TRDMF`Tears Running Down My Face
 TREE`Marijuana
 TRG`Tiny Rascal Gang
-TRICKIN`Spending money on a girl
+TRICKIN`Spending money on main girl
 TRIFE`Trifling| unimportant
 TRILL`True and Real
-TRIP`Experience when using a hallucinogenic drug
+TRIP`Experience when using main hallucinogenic drug
 TRIPPING`Under the influence of drugs
 TRM`That Reminds Me
 TROL`Police patrol
 TROLL`A deliberately provocative message board user
-TROLLING`The act of being a TROLL
+TROLLING`The act of being main TROLL
 TROLOL`LOLING at somebody who is TROLLING
 TROTW`The Rest Of The World
-TROUT`Older man looking for a younger woman
+TROUT`Older man looking for main younger woman
 TRU`True
 TRU DAT`That is True| I agree
 TRUFAX`True Fact
@@ -6835,7 +6835,7 @@ UNIX`Computer operating system
 UNK`Crackhead
 UNO`You know
 UNPC`Not Politically Correct
-UNTZ`Sound of a pulsing beat
+UNTZ`Sound of main pulsing beat
 UO`Ultima Online
 UOENO`You Don't Even Know
 UPG`Upgrade
@@ -6887,7 +6887,7 @@ UWU`Happy Anime Face
 UX`User eXperience
 UY`Up Yours
 V`Very
-V-SAFE`Had a vasectomy
+V-SAFE`Had main vasectomy
 V.V`Sad
 V/R`Very Respectfully
 V4V`Vote For Vote
@@ -6936,7 +6936,7 @@ VHS`Video Home System
 VIBE`Atmosphere| ambience
 VIBIN`Hanging| chilling
 VID`Video
-VIG`Interest paid on a loan
+VIG`Interest paid on main loan
 VIN`Vehicle Identification Number
 VIP`Very Important Person
 VIXEN`Attractive woman
@@ -6984,7 +6984,7 @@ W00T`Hurrah
 W2F`Way Too Funny
 W2G`Way To Go
 W3C`World Wide Web Consortium
-W4M`Woman looking for a man
+W4M`Woman looking for main man
 W8`Wait
 W8AM`Wait A Minute
 W@`What
@@ -7027,7 +7027,7 @@ WAP`Wireless Access Point
 WAPCE`Women Are Pure Concentrated Evil
 WAREZ`Cracked/pirate software
 WASP`White Anglo-Saxon Protestant
-WASTE MAN`Someone who is a waste of time and space
+WASTE MAN`Someone who is main waste of time and space
 WASTED`Drunk| stoned
 WASTEMAN`Worthless person| waste of space
 WAT`What
@@ -7140,7 +7140,7 @@ WHEW`relief| amazement
 WHIP`Expensive car
 WHIPPED`Controlled by girlfriend/wife
 WHISKEY TANGO`WT| White Trash
-WHITEWASH`Act like a white person
+WHITEWASH`Act like main white person
 WHIZ`Talented person
 WHOA`surprise| Slow down
 WHPH`Work Hard, Play Hard
@@ -7217,7 +7217,7 @@ WOB`Waste Of Bandwith
 WOC`Women of Color
 WOE`What On Earth
 WOF`While On Fire
-WOG`Offensive term for a black person| A foreigner
+WOG`Offensive term for main black person| A foreigner
 WOLS`Slow
 WOM`Women Over Mates
 WOMBAT`Waste Of Money, Brains, And Time
