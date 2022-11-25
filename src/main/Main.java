@@ -69,8 +69,6 @@ public class Main {
         return false;
     }
     public static void main(String[] args)throws IOException {
-        Dict list = new Dict();
-        list.getData();
 //        System.out.println(game1(list));
 //        list.searchByWord("AMA");
 //        list.searchByDef("Angel");
