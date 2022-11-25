@@ -3,13 +3,18 @@ package main;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.lang.reflect.Array;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
+import java.util.Random;
 
 public class Dict {
     HashMap<String, String> list;
-
+    ArrayList<String> his;
     Dict(){
         list = new HashMap<>();
+        his = new ArrayList<>();
     }
 
     public int getSize(){
@@ -74,7 +79,22 @@ public class Dict {
         list.put(word, "/" + def);
     }
 
-    public void randomWord(){
+    public void removeWord(String word){
+        list.remove(word);
+    }
+    public String randomWord(){
+        Random random = new Random();
+        List<String> keys = new ArrayList<>(list.keySet());
+        String randomKey = keys.get(random.nextInt(keys.size()));
+        return randomKey;
+    }
 
+    public void history(String word){
+        for (String i : his){
+            if (word == i){
+                list.remove(i);
+            }
+        }
+        his.add(0, word);
     }
 }
