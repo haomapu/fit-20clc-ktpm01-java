@@ -73,7 +73,5 @@ public class Main {
 //        list.searchByWord("AMA");
 //        list.searchByDef("Angel");
         GUI ui = new GUI();
-        ui.createAndShowGUI();
-
     }
 }
