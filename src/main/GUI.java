@@ -9,27 +9,41 @@ public class GUI{
     JFrame mainUI;
     JFrame popUp;
     JFrame deletePopUp;
-    JFrame editPopUp;
     JPanel buttons;
 //    JPanel buttons;
     JPanel bottom;
+    JPanel quiz1UI;
+    JPanel quiz2UI;
     JPanel searchBox;
     JTextArea resSearch;
     JTextField inputSearch;
     JTextField inputAdd;
     JTextArea defAdd;
+
+    // JPanel
     JPanel addUI;
     JPanel menu;
     JPanel editUI;
     JPanel deleteUI;
     JPanel randomUI;
+    JPanel historyUI;
     JTextField inputDel;
     JTextField inputEdit;
     JTextArea editArea;
+    JTextArea historyOut;
     JTextField inputEditTemp;
     JLabel randomWord;
     JLabel randomDef;
-
+    JLabel randomWordQuiz;
+    JLabel randomDefQuiz;
+    JButton answer1;
+    JButton answer2;
+    JButton answer3;
+    JButton answer4;
+    JButton answer12;
+    JButton answer22;
+    JButton answer32;
+    JButton answer42;
 
     Controller ct;
     Font f;
@@ -37,13 +51,17 @@ public class GUI{
     Dict list;
     GUI() throws IOException{
         list = new Dict();
-
+        randomWordQuiz = new JLabel();
+        randomDefQuiz = new JLabel();
         mainUI = new JFrame();
-        editPopUp = new JFrame();
         deletePopUp = new JFrame();
         menu = new JPanel();
         buttons = new JPanel();
         randomUI = new JPanel();
+        historyOut = new JTextArea();
+        quiz1UI = new JPanel();
+        quiz2UI = new JPanel();
+        historyUI = new JPanel();
         bottom = new JPanel();
         searchBox = new JPanel();
         resSearch = new JTextArea(10,10);
@@ -61,6 +79,14 @@ public class GUI{
         deleteUI = new JPanel();
         randomWord = new JLabel("");
         randomDef = new JLabel("");
+        answer1 = addAButton("");
+        answer2 = addAButton("");
+        answer3 = addAButton("");
+        answer4 = addAButton("");
+        answer12 = addAButton("");
+        answer22 = addAButton("");
+        answer32 = addAButton("");
+        answer42 = addAButton("");
         f = new Font("Helvetica", Font.BOLD, 17);
         this.init();
     }
@@ -79,6 +105,9 @@ public class GUI{
         createDeletePopUp();
         createDeleteUI();
         createRandomUI();
+        createHistoryUI();
+        createQuiz1UI();
+        createQuiz2UI();
         mainUI.setVisible(true);
 
     }
@@ -112,9 +141,9 @@ public class GUI{
         buttons.add(Box.createRigidArea(new Dimension(5, 5)));
         buttons.add(addAButton("Random A Word"));
         buttons.add(Box.createRigidArea(new Dimension(5, 5)));
-        buttons.add(addAButton("Game 1"));
+        buttons.add(addAButton("Quiz 1"));
         buttons.add(Box.createRigidArea(new Dimension(5, 5)));
-        buttons.add(addAButton("Game 2"));
+        buttons.add(addAButton("Quiz 2"));
         //Bottom panel
         bottom.setLayout(new FlowLayout(FlowLayout.CENTER, 10, 0));
         JButton resetBtn = new JButton("Reset");
@@ -303,6 +332,90 @@ public class GUI{
         randomUI.add(center, BorderLayout.CENTER);
     }
 
+    public void createQuiz1UI(){
+        quiz1UI.setLayout(new BorderLayout());
+
+        JPanel top = new JPanel();
+        JPanel quiz = new JPanel();
+        quiz.setLayout(new BoxLayout(quiz, BoxLayout.PAGE_AXIS));
+        JLabel ques = new JLabel("What does it mean?");
+        ques.setAlignmentX(Component.CENTER_ALIGNMENT);
+        ques.setFont(new Font("Helvetica", Font.BOLD, 24));
+        randomWordQuiz.setAlignmentX(Component.CENTER_ALIGNMENT);
+        randomWordQuiz.setFont(f);
+        quiz.add(ques);
+        quiz.add(randomWordQuiz);
+        top.add(quiz);
+        JPanel center = new JPanel();
+        center.setLayout(new GridLayout(2, 2));
+        center.add(answer1);
+        center.add(answer2);
+        center.add(answer3);
+        center.add(answer4);
+
+        quiz1UI.add(top, BorderLayout.PAGE_START);
+        quiz1UI.add(center, BorderLayout.CENTER);
+
+    }
+
+    public void createQuiz2UI(){
+        quiz2UI.setLayout(new BorderLayout());
+
+        JPanel top = new JPanel();
+        JPanel quiz = new JPanel();
+        quiz.setLayout(new BoxLayout(quiz, BoxLayout.PAGE_AXIS));
+        JLabel ques = new JLabel("What is the slang word for this sentence?");
+        ques.setAlignmentX(Component.CENTER_ALIGNMENT);
+        ques.setFont(new Font("Helvetica", Font.BOLD, 24));
+        randomDefQuiz.setAlignmentX(Component.CENTER_ALIGNMENT);
+        randomDefQuiz.setFont(f);
+        quiz.add(ques);
+        quiz.add(randomDefQuiz);
+        top.add(quiz);
+        JPanel center = new JPanel();
+        center.setLayout(new GridLayout(2, 2));
+        center.add(answer12);
+        center.add(answer22);
+        center.add(answer32);
+        center.add(answer42);
+
+        quiz2UI.add(top, BorderLayout.PAGE_START);
+        quiz2UI.add(center, BorderLayout.CENTER);
+
+    }
+
+    public void createHistoryUI(){
+        historyUI.setLayout(new BorderLayout());
+
+        historyOut.setAlignmentX(Component.CENTER_ALIGNMENT);
+        historyOut.setMaximumSize(new Dimension(500, 300));
+        historyOut.setMinimumSize(new Dimension(500, 300));
+
+        historyUI.add(historyOut);
+    }
+
+    public void setHistoryUI(){
+        mainUI.remove(buttons);
+        mainUI.remove(menu);
+        mainUI.add(historyUI, BorderLayout.CENTER);
+        mainUI.setVisible(false);
+        mainUI.setVisible(true);
+    }
+
+    public void setQuiz1UI(){
+        mainUI.remove(buttons);
+        mainUI.remove(menu);
+        mainUI.add(quiz1UI, BorderLayout.CENTER);
+        mainUI.setVisible(false);
+        mainUI.setVisible(true);
+    }
+    public void setQuiz2UI(){
+        mainUI.remove(buttons);
+        mainUI.remove(menu);
+        mainUI.add(quiz2UI, BorderLayout.CENTER);
+        mainUI.setVisible(false);
+        mainUI.setVisible(true);
+    }
     public void setRandomUI(){
         mainUI.remove(buttons);
         mainUI.remove(menu);
@@ -373,6 +486,9 @@ public class GUI{
         mainUI.remove(deleteUI);
         mainUI.remove(editUI);
         mainUI.remove(randomUI);
+        mainUI.remove(quiz1UI);
+        mainUI.remove(quiz2UI);
+        mainUI.remove(historyUI);
         mainUI.add(buttons, BorderLayout.CENTER);
         mainUI.add(menu, BorderLayout.PAGE_START);
         resSearch.setText("");
@@ -383,16 +499,24 @@ public class GUI{
 
     public void getSearchWord(){
         String word = inputSearch.getText();
+        if (list.searchByWord(word) == "0"){
+            JOptionPane.showMessageDialog(null, "Invalid Word");
+            return;
+        }
         resSearch.setText(list.searchByWord(word)); // Chua chinh xuong dong voi nghia moi
-        list.history(word);
+        list.history(word + "\t" + list.searchByWord(word));
     }
 
     public void getSearchDef(){
         String temp = "";
+
+        if (inputSearch.getText().equals("")){
+            JOptionPane.showMessageDialog(null, "Invalid Def");
+            return;
+        }
         for (String i : list.searchByDef(inputSearch.getText())){
             temp += i + '\n';
         }
-
         resSearch.setText(temp);
     }
 

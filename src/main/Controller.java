@@ -1,20 +1,32 @@
 package main;
 
+import javax.swing.*;
 import java.awt.event.*;
 import java.io.IOError;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Random;
 
 public class Controller implements ActionListener {
     GUI list;
     int type;
     boolean check;
+    String resQ;
+    String resW;
+    String temp;
+
     Controller(GUI list){
         this.list = list;
         type = 0;
+        temp = "";
+        resQ = "";
+        resW = "";
         check = true;
     }
     public void actionPerformed(ActionEvent e) {
         String src = e.getActionCommand();
+        JButton srcV = (JButton)e.getSource();
         if (src.equals("Search Word")){
             type = 1;
             list.searchUI();
@@ -80,6 +92,120 @@ public class Controller implements ActionListener {
             String str = list.list.randomWord();
             list.randomWord.setText(str);
             list.randomDef.setText(list.list.searchByWord(str));
+        } else if (src.equals("Quiz 1") || srcV.equals(list.answer1) || srcV.equals(list.answer2) || srcV.equals(list.answer3)|| srcV.equals(list.answer4)) {
+            ArrayList<String> multipleChoice = new ArrayList<>();
+            Random random = new Random();
+            HashMap<String, String> mulShuf = new HashMap<>();
+            if (src.equals("Quiz 1")){
+                resW = list.list.randomWord();
+                list.setQuiz1UI();
+                multipleChoice.add(resW);
+                multipleChoice.add(list.list.randomWord());
+                multipleChoice.add(list.list.randomWord());
+                multipleChoice.add(list.list.randomWord());
+
+                mulShuf.put("A", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("A"));
+                mulShuf.put("B", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("B"));
+                mulShuf.put("C", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("C"));
+                mulShuf.put("D", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("D"));
+                list.randomWordQuiz.setText(resW);
+                list.answer1.setText(list.list.searchByWord(mulShuf.get("A")));
+                list.answer2.setText(list.list.searchByWord(mulShuf.get("B")));
+                list.answer3.setText(list.list.searchByWord(mulShuf.get("C")));
+                list.answer4.setText(list.list.searchByWord(mulShuf.get("D")));
+            } else if (src.equals(list.list.searchByWord(resW))){
+                resW = list.list.randomWord();
+                JOptionPane.showMessageDialog(null, "Congratulation");
+                multipleChoice.add(resW);
+                multipleChoice.add(list.list.randomWord());
+                multipleChoice.add(list.list.randomWord());
+                multipleChoice.add(list.list.randomWord());
+
+                mulShuf.put("A", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("A"));
+                mulShuf.put("B", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("B"));
+                mulShuf.put("C", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("C"));
+                mulShuf.put("D", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("D"));
+                list.randomWordQuiz.setText(resW);
+                list.answer1.setText(list.list.searchByWord(mulShuf.get("A")));
+                list.answer2.setText(list.list.searchByWord(mulShuf.get("B")));
+                list.answer3.setText(list.list.searchByWord(mulShuf.get("C")));
+                list.answer4.setText(list.list.searchByWord(mulShuf.get("D")));
+            }
+            else {
+                JOptionPane.showMessageDialog(null, "Wrong");
+
+            }
+
+        }
+        else if (src.equals("Quiz 2") || srcV.equals(list.answer12) || srcV.equals(list.answer22) || srcV.equals(list.answer32)|| srcV.equals(list.answer42)) {
+            ArrayList<String> multipleChoice = new ArrayList<>();
+            Random random = new Random();
+            HashMap<String, String> mulShuf = new HashMap<>();
+
+            if (src.equals("Quiz 2")){
+                resQ = list.list.randomWord();
+                list.setQuiz2UI();
+                multipleChoice.add(resQ);
+                multipleChoice.add(list.list.randomWord());
+                multipleChoice.add(list.list.randomWord());
+                multipleChoice.add(list.list.randomWord());
+
+                mulShuf.put("A", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("A"));
+                mulShuf.put("B", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("B"));
+                mulShuf.put("C", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("C"));
+                mulShuf.put("D", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("D"));
+                list.randomDefQuiz.setText(list.list.searchByWord(resQ));
+                list.answer12.setText(mulShuf.get("A"));
+                list.answer22.setText(mulShuf.get("B"));
+                list.answer32.setText(mulShuf.get("C"));
+                list.answer42.setText(mulShuf.get("D"));
+            } else if (src.equals(resQ)){
+                resQ = list.list.randomWord();
+                JOptionPane.showMessageDialog(null, "Congratulation");
+                multipleChoice.add(resQ);
+                multipleChoice.add(list.list.randomWord());
+                multipleChoice.add(list.list.randomWord());
+                multipleChoice.add(list.list.randomWord());
+
+                mulShuf.put("A", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("A"));
+                mulShuf.put("B", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("B"));
+                mulShuf.put("C", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("C"));
+                mulShuf.put("D", multipleChoice.get(random.nextInt(multipleChoice.size())));
+                multipleChoice.remove(mulShuf.get("D"));
+                list.randomDefQuiz.setText(list.list.searchByWord(resQ));
+                list.answer12.setText(mulShuf.get("A"));
+                list.answer22.setText(mulShuf.get("B"));
+                list.answer32.setText(mulShuf.get("C"));
+                list.answer42.setText(mulShuf.get("D"));
+            }
+            else {
+                JOptionPane.showMessageDialog(null, "Wrong");
+
+            }
+        } else if (src.equals("History")) {
+            for (String i : list.list.his){
+                temp += i +  '\n';
+            }
+            list.historyOut.setText(temp);
+            list.setHistoryUI();
+            temp = "";
+        } else if (src.equals("Cancel")){
+            list.popUp.setVisible(false);
         }
 
 

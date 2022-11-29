@@ -31,9 +31,9 @@ public class Dict {
                 break;
             String[] arrOfStr = str.split("`");
             if ( arrOfStr.length == 1){
-                list.put(prev, "|" + arrOfStr[0]);
+                list.put(prev, list.get(prev) + "|" + arrOfStr[0]);
             }else if(arrOfStr[0] == prev){
-                list.put(prev, "|" + arrOfStr[1]);
+                list.put(prev, list.get(prev) + "|" + arrOfStr[1]);
             }else{
                 list.put(arrOfStr[0], arrOfStr[1]);
 
@@ -44,7 +44,7 @@ public class Dict {
 
     public String searchByWord(String word){
         if (list.get(word) == null) {
-            return "1";
+            return "0";
         }
         return list.get(word);
     }
@@ -53,6 +53,7 @@ public class Dict {
         ArrayList<String> res = new ArrayList<>();
         list.forEach((key, value) -> {
             if(value.contains(def)) {
+                history(key);
                 res.add(key);
             }
         });
@@ -78,7 +79,7 @@ public class Dict {
     }
 
     public void duplicateWord(String word, String def){
-        list.put(word, list.get(word) + "/" + def);
+        list.put(word, list.get(word) + "|" + def);
     }
 
     public void removeWord(String word){
